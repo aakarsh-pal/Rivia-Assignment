@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rivia-Assignment/static/css/main.77f10606.css",
+    "main.js": "/Rivia-Assignment/static/js/main.1e59b0d1.js",
+    "index.html": "/Rivia-Assignment/index.html",
+    "main.77f10606.css.map": "/Rivia-Assignment/static/css/main.77f10606.css.map",
+    "main.1e59b0d1.js.map": "/Rivia-Assignment/static/js/main.1e59b0d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f10606.css",
+    "static/js/main.1e59b0d1.js"
+  ]
+}
